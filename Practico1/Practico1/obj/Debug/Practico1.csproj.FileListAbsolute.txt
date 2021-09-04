@@ -1,0 +1,10 @@
+C:\Users\Fer\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\Fer\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\Fer\source\repos\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.Properties.Resources.resources
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.GenerateResource.cache
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.pdb
+C:\Users\Fer\source\repos\Practico1\Practico1\obj\Debug\Practico1.Formulario1.resources

@@ -1,0 +1,10 @@
+C:\Users\Fer\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+C:\Users\Fer\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe
+C:\Users\Fer\source\repos\Practico5\Practico5\bin\Debug\Practico5.pdb
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.AssemblyReference.cache
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.Properties.Resources.resources
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.GenerateResource.cache
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.CoreCompileInputs.cache
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.exe
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.pdb
+C:\Users\Fer\source\repos\Practico5\Practico5\obj\Debug\Practico5.btn_guardar.resources

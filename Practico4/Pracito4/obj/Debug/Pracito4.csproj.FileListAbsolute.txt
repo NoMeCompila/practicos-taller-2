@@ -1,0 +1,10 @@
+C:\Users\Fer\source\repos\Pracito4\Pracito4\bin\Debug\Pracito4.exe.config
+C:\Users\Fer\source\repos\Pracito4\Pracito4\bin\Debug\Pracito4.exe
+C:\Users\Fer\source\repos\Pracito4\Pracito4\bin\Debug\Pracito4.pdb
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.csproj.AssemblyReference.cache
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.Form4.resources
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.Properties.Resources.resources
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.csproj.GenerateResource.cache
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.csproj.CoreCompileInputs.cache
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.exe
+C:\Users\Fer\source\repos\Pracito4\Pracito4\obj\Debug\Pracito4.pdb

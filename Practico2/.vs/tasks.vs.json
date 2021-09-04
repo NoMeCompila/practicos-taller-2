@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Form1.Designer",
+      "appliesTo": "Practico2/Form1.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
